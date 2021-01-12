@@ -1,0 +1,30 @@
+.MenuB{
+    
+    margin-top:94px;
+    margin-left: -325px;
+    font-size:37px;
+    background-color: inherit;
+    height:50px;
+    width:80px;
+    font-weight: bold;
+   border:none;
+   
+
+}
+.MenuC{
+    margin-left: -330px;
+    height:400px;
+    background-color: none;
+}
+.meno{
+    font-size:larger;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.meno:hover{
+    border:2px solid black;
+}
+#meno1{
+    font-size:larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+    

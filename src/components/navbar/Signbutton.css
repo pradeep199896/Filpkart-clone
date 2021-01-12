@@ -1,0 +1,15 @@
+.signin{
+    margin-top:55px;
+    font-size: 25px;
+    padding:0 12px;
+    height: 50px;
+    width: 150px;
+    text-decoration: none;
+    cursor:pointer;
+    border-radius: 8px;
+   background-color: white;
+    color:black;
+}
+.signin:hover{
+    border:5px solid black;
+}

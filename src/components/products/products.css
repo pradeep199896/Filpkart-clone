@@ -1,0 +1,21 @@
+.products{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+    width:90%;
+    margin-left:100px;
+    
+}
+.products h3{
+    color:white;
+    
+}
+.products div{
+    margin-top:15px;
+}
+.products div img{
+    width:350px;
+    height:350px;
+}
+
